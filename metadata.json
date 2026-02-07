@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lumina Bites - Premium 3D Food Experience",
+  "description": "A high-end, immersive 3D food ordering platform built with React Three Fiber, Framer Motion, and Tailwind CSS. Featuring real-time 3D models, smooth transitions, and a dark-themed premium UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
